@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+.button-container {
+    font-family: "DM Sans", sans-serif;
+    font-weight: bold;
+    color: #f9fafb;
+}
